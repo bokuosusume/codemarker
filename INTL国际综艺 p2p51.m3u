@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 ,3NEWS
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 ,7web cooking
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 ,18+
+http://publish.firestormmedia.tv:1935/bsx24/livestream/playlist.m3u8
+#EXTINF:-1 ,ABC NEWS
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1 ,Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+#EXTINF:-1 ,BLOOMBERG 1
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 ,Boston tv
+http://unisportslive1-lh.akamaihd.net:80/i/boston_042114_1@39543/index_2000_av-b.m3u8
+#EXTINF:-1 ,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 ,CBS News
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 ,CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 ,CGTN Francias
+https://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,CGTN Francis
+https://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,CGTN2
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,CGTN6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 ,CNN Live Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 ,DD News India
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?
+#EXTINF:-1 ,English Movie
+https://59d39900ebfb8.streamlock.net/horrifiedtv/horrifiedtv/chunklist_w67985971.m3u8
+#EXTINF:-1 ,FASHION PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
+#EXTINF:-1 ,Foreign channel
+https://54627d4fc5996.streamlock.net:443/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 ,France-24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master.m3u8
+#EXTINF:-1 ,Happy tv
+https://edge1a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist.m3u8
+#EXTINF:-1 ,History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/04.m3u8
+#EXTINF:-1 ,Japan
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 ,Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 ,Joker Movie HD 2019
+http://dl13.ftk.pw/film/Jo.ker.2019.720p.hd.rp.Film2Movie_li.mkv
+#EXTINF:-1 ,Korean TV
+http://222.252.27.201:88/hls/relay/MuMf3uy/index.m3u8
+#EXTINF:-1 ,Law and crime network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 ,Natgeo wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 ,Natgeo wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 ,NBC NEWS
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+#EXTINF:-1 ,NEW-ZEALAND-Wairarapa-TV
+http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+#EXTINF:-1 ,Penthouse TV
+http://iptv.kosiptv.com:1557/live/Faruk/faruk/10731.m3u8
+#EXTINF:-1 ,Playboy channel
+http://46.29.165.95:8081/stream/Playboy/chunks.m3u8
+#EXTINF:-1 ,Rai 4 Italy
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 ,Redbull tv
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 ,Sky News Extra1
+http://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 ,Sky News Extra2
+http://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master960x540.m3u8
+#EXTINF:-1 ,Sky-NEWS1
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 ,Sky-NEWS1
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,Sky英国新闻1
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 ,Spotlight tv
+http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Thai PBS News
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 ,Uss Prime foreign
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+#EXTINF:-1 ,Voice of America (PST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Ya Emitido
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 ,360
+P2p://51.79.41.138:18912/5cffd5d2000e898629bf8a4159c54415.ts.ts
+#EXTINF:-1 ,Animal Planet BR
+P2p://51.79.41.138:18912/5bee4ddb0001bdba19c7a5a7524023f1.ts.ts
+#EXTINF:-1 ,ANIMAL-PLANET
+P2p://51.79.41.138:18912/5b5939130005971dd36eeccc06917adb.ts.ts
+#EXTINF:-1 ,BET-HD
+P2p://51.79.41.138:18912/5b59391b0002ff76d36f0b60456d1eb0.ts.ts
+#EXTINF:-1 ,CBS-HD
+P2p://51.79.41.138:18912/5b59393700075d00d36f79d957914dd4.ts.ts
+#EXTINF:-1 ,CNBC
+P2p://51.79.41.138:18912/5b59394400007aa8d36faadc60806e04.ts.ts
+#EXTINF:-1 ,Comedy Central BR
+P2p://51.79.41.138:18912/5bee4e780009e08319ca0d023ac351c5.ts.ts
+#EXTINF:-1 ,C-SPAN-2
+P2p://51.79.41.138:18912/5b59392700009927d36f39a42a72613a.ts.ts
+#EXTINF:-1 ,C-SPAN-3
+P2p://51.79.41.138:18912/5b59392a000cefb4d36f48886d384162.ts.ts
+#EXTINF:-1 ,CW-HD
+P2p://51.79.41.138:18912/5b593ae900043458d376185e45e46b15.ts.ts
+#EXTINF:-1 ,Discovery BR
+P2p://51.79.41.138:18912/5bee4e830000792b19ca359942847fe8.ts.ts
+#EXTINF:-1 ,Discovery WORLD
+P2p://51.79.41.138:18912/5bee4e9b0004056f19ca944341e3368d.ts.ts
+#EXTINF:-1 ,DISNEY
+P2p://51.79.41.138:18912/5b140a0c0002578a17d4dac92e290b02.ts.ts
+#EXTINF:-1 ,DISNEY JR BR
+P2p://51.79.41.138:18912/5bee4ea20003335f19caaf5d34b301d0.ts.ts
+#EXTINF:-1 ,Disney XD BR
+P2p://51.79.41.138:18912/5bee4ea50009f36c19cabcda2ac3795d.ts.ts
+#EXTINF:-1 ,DIY NETWORK
+P2p://51.79.41.138:18912/5b593af90004cd30d376570d75a56209.ts.ts
+#EXTINF:-1 ,E!
+P2p://51.79.41.138:18912/5b593afd000076d3d37665846c6451f9.ts.ts
+#EXTINF:-1 ,E! BR
+P2p://51.79.41.138:18912/5bee4ea9000002e319cac9ea55133cb5.ts.ts
+#EXTINF:-1 ,EBS
+P2p://j93.cxiptv.com:9907/583e9a9e00088f1a42d7563904db101f.ts YTN,P2p://j93.cxiptv.com:9907/583fb624000c18e6472ada8b00cb2642.ts
+#EXTINF:-1 ,ESPN-U
+P2p://51.79.41.138:18912/5b593b08000d56bad37693c872f60093.ts.ts
+#EXTINF:-1 ,EURO SPORT 2
+P2p://51.79.41.138:18912/5bee4eb700049db119cb01c20a7c524b.ts.ts
+#EXTINF:-1 ,EURO SPORT 2 IT
+P2p://51.79.41.138:18912/5bee51c80006548a19d6fc983a536b0e.ts.ts
+#EXTINF:-1 ,FOX
+P2p://51.79.41.138:18912/5b14098e000c5aec17d2f129119b4144.ts.ts
+#EXTINF:-1 ,FOX
+P2p://51.79.41.138:18912/5c0f8a36000c99d49b9b6bee3f3c1926.ts.ts
+#EXTINF:-1 ,Fox BR
+P2p://51.79.41.138:18912/5bee4fcb00072a1719cf388e48340224.ts.ts
+#EXTINF:-1 ,FOX MOVIES
+P2p://51.79.41.138:18912/5b7267ae000b9c6c35cc884079c70164.ts.ts
+#EXTINF:-1 ,FOX MOVIES
+P2p://51.79.41.138:18912/5bf4f3c70004099933bfc8236f24489b.ts.ts
+#EXTINF:-1 ,YAS SPORTS
+P2p://51.79.41.138:18912/5bee553b00031c9919e4750542353428.ts.ts
+#EXTINF:-1 ,TVBS精彩台
+P2p://51.79.41.138:18912/5bdbf3b20000e966d2177540400d0818.ts.ts
+#EXTINF:-1 ,ZEE新闻台
+P2p://51.79.41.138:18912/5b140a8700034bae17d6bb7f05807cf9.ts.ts
+#EXTINF:-1 ,壹电视新闻台
+P2p://51.79.41.138:18912/5bdbf3a3000abb1bd2173d393f733744.ts.ts

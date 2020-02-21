@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 ,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 ,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 ,Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 ,Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 ,Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 ,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 ,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 ,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 ,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 ,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 ,ALL SPORT
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 ,ALL SPORT CBS SPORT
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 ,Bein Sports 1
+http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+#EXTINF:-1 ,Bein Sports 2
+http://95.170.215.118/hls/m3u8/Astera-Sport-A2-JP.m3u8
+#EXTINF:-1 ,Bein Sports 4
+http://95.170.215.101/hls/m3u8/Bein-S4-gf.m3u8
+#EXTINF:-1 ,Bein Sports 5
+http://95.170.215.101/hls/m3u8/Bein-S5-sx.m3u8
+#EXTINF:-1 ,Bein Sports 6
+http://95.170.215.101/hls/m3u8/Bein-S6-vnb.m3u8
+#EXTINF:-1 ,BeIN Sports Extra
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 ,BT SPORT/ESPN
+http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
+#EXTINF:-1 ,BT Sports 1
+https://cstream5.com/hls/btsport1.m3u8
+#EXTINF:-1 ,BT Sports 2
+https://cstream5.com/hls/btsport2.m3u8
+#EXTINF:-1 ,CCTV-5+体育
+http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
+#EXTINF:-1 ,Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 ,English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 ,ESPN
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/master.m3u8
+#EXTINF:-1 ,Espn
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 ,ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 ,ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://npse.brots.world/espn2.m3u8
+#EXTINF:-1 ,ESPN News
+https://gma2.blab.email/espnews.m3u8
+#EXTINF:-1 ,ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 ,Eurosport 1
+http://5.135.92.133:52841/out/u/511_1.m3u8
+#EXTINF:-1 ,Eurosport 2
+https://cstream5.com/hls/eurosport2.m3u8
+#EXTINF:-1 ,EUROSPORT SPORT
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1 ,Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:-1 ,FIGHT TIME USA
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 ,Fox Sports 3
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1714.m3u8
+#EXTINF:-1 ,Fox Sports 501
+http://45.58.62.92:8080
+#EXTINF:-1 ,GOLF
+http://161.0.157.9/PLTV/88888888/224/3221226812/03.m3u8
+#EXTINF:-1 ,GOLF CNBC
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8FOX SPORT RACING,http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 ,Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+#EXTINF:-1 ,Now Sports Prime
+http://wowgua.com/live/channel_630.m3u8
+#EXTINF:-1 ,Olympic Channel 2
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1 ,ONE CHANNEL SPORT ARAB
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:-1 ,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 ,Outdoor Channel
+http://84.22.33.254/unicast.outdoorchannel/index.m3u8
+#EXTINF:-1 ,Outdoor Channel Asia
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=1
+#EXTINF:-1 ,Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+#EXTINF:-1 ,SEC Network
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 ,Setanta Sports 1
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1 ,Setanta Sports 2
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 ,SKY SPORT F1
+http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
+#EXTINF:-1 ,Sky Sports Action
+https://cstream5.com/hls/skysportsaction.m3u8
+#EXTINF:-1 ,Sky Sports Arena
+https://cstream5.com/hls/skysportsarena.m3u8
+#EXTINF:-1 ,Sky sports football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 ,SkySport Action
+http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 ,Sony Ten 1
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+#EXTINF:-1 ,Sony Ten 2
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+#EXTINF:-1 ,Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
+#EXTINF:-1 ,SPORTNET EAST CANADA SPORT CA
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+#EXTINF:-1 ,Sportskool TV
+https://a.jsrdn.com/broadcast/22697/+0000/c.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 ,Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 ,Tennis Channel+ 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
+#EXTINF:-1 ,Tens sports
+http://163.172.85.133:8080/TenS/sports/index.m3u8
+#EXTINF:-1 ,博斯魅力 Sportcast
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 ,博斯魅力網
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 ,广东体育
+http://nclive.grtn.cn/typd/sd/live.m3u8
